@@ -1,5 +1,5 @@
 # Heb12ie
-Just a test. http://heb12.html-5.me/
+Just a test. Mainly created for devices with low processing power.
 #
 Tested on:
  - OLPC XO 1
