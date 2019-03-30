@@ -1,2 +1,5 @@
 # Heb12ie
-A JavaScript version of Heb12 for the ancient browsers.
+Just a test. http://heb12.html-5.me/
+#
+Tested on:
+ - OLPC XO 1
