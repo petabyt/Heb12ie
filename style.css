@@ -23,11 +23,19 @@ select {
 	width: 50px;
 }
 
-#load {
+button {
 	height: 30px;
 	margin-top: 12px;
 }
 
 #content {
 	padding: 30px 30px;
+}
+.previous {
+	float: left;
+	margin-left: 30px;
+}
+.next {
+	float: right;
+	margin-right: 30px;
 }
